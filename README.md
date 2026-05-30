@@ -1,16 +1,21 @@
-## Hi there 👋
 
-<!--
-**EbuIIient/EbuIIient** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![Visitor Count](https://hits.sh/thehotelkeeper.github.io.svg?label=🖤&color=777777)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div align="center">
+
+ ${\textsf{\color{#44444} I ship erasermic and erasermight! (*￣3￣)╭}}$
+
+<img width="635" height="615" alt="image" src="https://github.com/user-attachments/assets/fc1b38c1-994a-4bea-8645-285bcbde2a04" />
+
+
+
+${\textsf{\color{#666666}Go Beyond, Plus ultra!}}$
+
+<div align="center">
+
+
+
+<div align="center">

@@ -10,8 +10,8 @@
 
  ${\textsf{\color{#7d4b16} DISCLAIMER: I have VPN, so If people (who have VPN) write on your atabook please approve, by going on your atabook/control/messages page and js approving it. }}$
  
-<img width="635" height="615" alt="image" src="https://github.com/user-attachments/assets/fc1b38c1-994a-4bea-8645-285bcbde2a04" />
 
+<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/914a3d20-b7e2-4128-8ba5-b90d3fb4c318" />
 
 
 ${\textsf{\color{#666666}Go Beyond, Plus ultra!}}$

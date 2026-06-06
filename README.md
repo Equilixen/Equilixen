@@ -11,7 +11,8 @@
  ${\textsf{\color{#7d4b16} DISCLAIMER: I have VPN, so If people (who have VPN) write on your atabook please approve the mssge }}$
  
 
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/914a3d20-b7e2-4128-8ba5-b90d3fb4c318" />
+<img width="498" height="374" alt="image" src="https://github.com/user-attachments/assets/45963ce2-25e4-45a2-b576-dff99b078a14" />
+
 
 
 ${\textsf{\color{#666666}Go Beyond, Plus ultra!}}$
